@@ -1,0 +1,7 @@
+[style]
+based_on_style = pep8
+indent_width = 4
+SPACE_INSIDE_BRACKETS = true 
+SPACES_AROUND_POWER_OPERATOR = true
+SPACES_AROUND_DEFAULT_OR_NAMED_ASSIGN = true
+column_limit = 120
